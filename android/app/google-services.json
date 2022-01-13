@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551386124707",
+    "firebase_url": "https://qr-code-gen-f6b6f.firebaseio.com",
+    "project_id": "qr-code-gen-f6b6f",
+    "storage_bucket": "qr-code-gen-f6b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551386124707:android:a0c69589affb38e4ec0a16",
+        "android_client_info": {
+          "package_name": "com.webtoddler.qr_code_gen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551386124707-63093sd2hlh1t40i5kc2h1lflep8thk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-OLKcCEO3FO9RqVSZuIal4ZCtaOq6t4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551386124707-63093sd2hlh1t40i5kc2h1lflep8thk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
